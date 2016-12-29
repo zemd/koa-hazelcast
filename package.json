@@ -1,0 +1,20 @@
+{
+  "name": "koa-hazelcast",
+  "version": "1.0.0",
+  "description": "Koa session with hazelcast using koa-generic-session",
+  "main": "index.js",
+  "repository": "https://github.com/zemd/koa-hazelcast",
+  "author": "Dmitry Zelenetskiy <dmitry.zelenetskiy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "generic-pool": "^3.1.6",
+    "hazelcast-client": "^0.5.0",
+    "logtown": "^1.0.5"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "session",
+    "hazelcast"
+  ]
+}
