@@ -1,5 +1,7 @@
 # koa-hazelcast
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zemd/koa-hazelcast.svg)](https://greenkeeper.io/)
+
 > Hazelcast storage for koa generic session middleware
 
 ## Installation
