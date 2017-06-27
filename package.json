@@ -9,7 +9,7 @@
   "dependencies": {
     "generic-pool": "^3.1.6",
     "hazelcast-client": "^0.6.1",
-    "logtown": "^1.0.5"
+    "logtown": "^2.1.1"
   },
   "keywords": [
     "koa",
