@@ -2,11 +2,6 @@
 
 > Hazelcast storage for koa generic session middleware
 
-## CAUTION
-
-Work in progress! This package requires ReplicatedMap support that has not been implemented yet.
-[check out](https://github.com/hazelcast/hazelcast-nodejs-client/pull/160)
-
 ## Installation
 
 ```bash
