@@ -1,6 +1,6 @@
 # koa-hazelcast
 
-> Hazelcast storage for koa generic session middleware
+> Hazelcast storage for koa generic session middleware based on(https://github.com/hazelcast/hazelcast-nodejs-client/pull/160)
 
 ## Installation
 
